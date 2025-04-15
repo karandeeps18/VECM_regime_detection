@@ -7,9 +7,8 @@ This Project develops and tests a rolling-window Vector Error Correction Model (
 
 Johansen's cointegration with finite-sample correction method (bartlett correction) is being used to identify the long-term and stable relationships among non-stationary assets. The model then adjusts how these relationships are corrected (error-correction) depending on current regime.
 
-We are testing threshold-VECMs (TVECMs) to see whether partitioning the error-correction term (ECT) space can capture nonlinear adjustments around the transaction cost boundary. Exploring the Markov-switching VECMs (MS-VECMs) to handle more gradual market transition through hidden state variables.
+We are testing threshold-VECMs (TVECMs) to see whether partitioning the error-correction term (ECT) space can capture nonlinear adjustments around the transaction cost boundary. Exploring the Markov-switching VECMs (MS-VECMs) to handle more gradual market transition through hidden state variables. Gridsearch parameter optimization is used to determine optimal, training-window length, reestimation frequency, cointegration rank and lag structure.
 
-Gridsearch parameter optimization is used to determine optimal, training-window length, reestimation frequency, cointegration rank and lag structure.
 ---------------------------------------------------------------------------------------------------
 
 ## License

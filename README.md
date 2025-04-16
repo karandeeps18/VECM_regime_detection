@@ -1,6 +1,8 @@
 # Adaptive Regime Detection in Rolling-Window VECM Modeling
 ## 1. Affiliation
-Project is conducted in collaboration with Professor Michael Robbins, Columbia University
+Project is conducted in collaboration with Professor Michael Robbins, Columbia University. © 2024 [ Michael Robbins].  
+All Rights Reserved.
+
 
 ## 2. Overview
 This Project develops and tests a rolling-window Vector Error Correction Model (VECM) framework enhanced with threshold and Markov-switching capabilities to adaptively define the regime changes in extensive time-series data.

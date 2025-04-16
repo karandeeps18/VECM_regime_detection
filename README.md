@@ -1,6 +1,6 @@
 # Adaptive Regime Detection in Rolling-Window VECM Modeling
 ## 1. Affiliation
-Project is conducted in collaboration with Professor Michael Robbins, Columbia University. © 2024 [Michael Robbins].  
+Project is conducted in collaboration with Professor Michael Robbins, Columbia University. © 2025 [Michael Robbins].  
 All Rights Reserved.
 
 
